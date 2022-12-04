@@ -1,0 +1,44 @@
+body {
+  font-size: 15pt;
+  margin: 0px;
+  padding: 0pc;
+  background:linear-gradient(#8DC0DA,#8DA3DA);
+  height: 100vh;
+}
+
+h3 {
+  text-align: center;
+}
+
+input {
+  text-align: center;
+  border: 2px solid;
+  border-radius: 5px;
+  width: 77%;
+  outline-color: palegreen;
+
+}
+
+button {
+  display: inline-flex;
+  border: 2px solid;
+  border-radius: 5px;
+  border-radius: 5px;
+  background: ghostwhite;
+  color: black;
+  width: 62px;
+
+
+}
+#sub :hover{
+  background:#C68DDA;
+  color: ghostwhite;
+}
+.main{
+  border: 2px solid;
+  border-radius:8px;
+  margin:2px;
+}
+h4{
+  text-align: center;
+}
